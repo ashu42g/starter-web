@@ -13,3 +13,7 @@ this is deployment description
 ## How to contribute
 This section is for contribute
 adde pragraph this is a test file
+
+## Deployment
+this is deployment section
+This is simplye web project section.
