@@ -12,7 +12,7 @@ this is deployment description
 
 ## How to contribute
 This section is for contribute
-adde pragraph this is a test file
+adde pragraph this is a test file   and then issue pull requests for review.
 
 ## Deployment
 this is deployment section
