@@ -19,3 +19,6 @@ this is deployment section
 This is simplye web project section.
 
 2014 Git.Training.
+
+### Copyright
+2022 GIT. Training. ALl rights reserved.
